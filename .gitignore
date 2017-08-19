@@ -1,17 +1,12 @@
-# Server public folder
-public/*
-public_html/*
-private_html/*
-
 # Craft configs and plugins
-craft/config/*
-craft/plugins/*
+config/*
+plugins/*
 
 # Craft runtime and backups folders
-craft/storage/runtime/*
-craft/storage/backups/*
-craft/storage/rebrand/*
-craft/storage/userphotos/*
+storage/runtime/*
+storage/backups/*
+storage/rebrand/*
+storage/userphotos/*
 
 # Misc files
 .DS_Store
